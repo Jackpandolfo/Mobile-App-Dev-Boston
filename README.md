@@ -1,0 +1,2 @@
+# Mobile-App-Dev-Boston
+Using an open source Office compatible platform such as Apache OpenOffice or LibreOffice, develop a mobile and desktop viewer application for a secure data exchange platform that we are developing.  The viewer must support all the common file formats such as doc, xls, ppt, pdf, txt, etc.  The viewer client will read data that has been prepended to one of the common file formats and connect with a backend server that will provide a set of services to which the viewer will need to conform. 
